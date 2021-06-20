@@ -1,0 +1,20 @@
+{
+    "name": "user/uts_alya-seraya",
+    "description": "Praktikum 7 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+  
+    "authors": [
+        {
+            "name": "alyaseraya",
+            "email": "alya.seraya@uinsu.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
